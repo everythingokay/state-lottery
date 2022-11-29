@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Ball from './Ball';
 import Lottery from './Lottery';
